@@ -1,0 +1,13 @@
+body {
+    background: #f4f6f9;
+}
+
+main h1 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+footer {
+    border-top: 1px solid #ddd;
+    margin-top: 1.5rem;
+}

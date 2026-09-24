@@ -1,5 +1,6 @@
-<?php
-define('DBHOST', 'localhost');
-define('DBNAME', 'gestionnaire_horaire');
-define('DBUSER', 'root');
-define('DBPASS', 'super');
+<?php declare(strict_types=1);
+
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'horaire_eleve');
+define('DB_USER', 'root');
+define('DB_PASSWORD', 'super');
