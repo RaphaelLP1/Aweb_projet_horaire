@@ -1,0 +1,15 @@
+27.08.26
+- creation de l'environnement de travail
+- creation de la base de données
+- creation du fichier config
+- creation du fichier de connexion BDD
+- avancement sur le CRUD de la table classes
+- creation du planning
+- creation du journal de bord
+
+23.09.26
+- finition du CRUD
+- creation et finition de l'API
+- creation et finition des pages 
+- creation et finition de includes
+- ajouts du CSS
